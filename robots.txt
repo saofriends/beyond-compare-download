@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://beyond-compare-download.herokuapp.com/host-https-www.autotechint.com/sitemap_index.xml
+Sitemap: https://beyond-compare-download.herokuapp.com/sitemap/sitemap.xml
